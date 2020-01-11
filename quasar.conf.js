@@ -57,7 +57,7 @@ module.exports = function (ctx) {
       scopeHoisting: true,
       // vueRouterMode: 'hash', // available values: 'hash', 'history'
       vueRouterMode: 'history',
-      publicPath: '/dist/spa/',
+      publicPath: '/dist/spa',
       showProgress: true,
       gzip: false,
       analyze: false,
