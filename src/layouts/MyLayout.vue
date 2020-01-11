@@ -15,7 +15,7 @@
           Тест
         </q-toolbar-title>
 
-        <div>Quasar версия{{ $q.version }}</div>
+        <div>Quasar версия {{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
