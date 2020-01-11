@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Тест
+          Тест test
         </q-toolbar-title>
 
         <div>Quasar версия {{ $q.version }}</div>
