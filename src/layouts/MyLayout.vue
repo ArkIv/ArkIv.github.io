@@ -26,7 +26,7 @@
     >
       <q-list>
         <q-item-label header>Тест</q-item-label>
-        <q-item clickable @click="$router.push('/main')">
+        <q-item clickable @click="$router.push('main')">
           <q-item-section avatar>
             <q-icon name="school" />
           </q-item-section>
