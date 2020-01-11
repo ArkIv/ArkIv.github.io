@@ -10,7 +10,6 @@
           icon="menu"
           aria-label="Menu"
         />
-
         <q-toolbar-title>
           Тест test
         </q-toolbar-title>
