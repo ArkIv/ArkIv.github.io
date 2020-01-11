@@ -11,7 +11,7 @@
           aria-label="Menu"
         />
         <q-toolbar-title>
-          Тест test1
+          Тест test2
         </q-toolbar-title>
 
         <div>Quasar версия {{ $q.version }}</div>
