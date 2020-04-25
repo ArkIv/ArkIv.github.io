@@ -33,3 +33,7 @@ quasar build
 ### Customize the configuration
 
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+## ошибки обновления сайта
+
+https://stackoverflow.com/questions/20422279/github-pages-are-not-updating
