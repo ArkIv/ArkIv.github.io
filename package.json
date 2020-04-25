@@ -8,6 +8,7 @@
   "author": "ArkIv <arkadii@yandex.ru>",
   "private": true,
   "scripts": {
+    "build": "npm version patch && quasar build -m spa && cp -R distAdd/* dist/spa",
     "lint": "eslint --ext .js,.vue src",
     "test": "echo \"No test specified\" && exit 0"
   },
